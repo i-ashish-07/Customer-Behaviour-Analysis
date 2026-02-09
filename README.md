@@ -215,6 +215,8 @@ ORDER BY total_revenue DESC;
 
 ## Power BI Dashboard Insights
 
+<img width="1349" height="734" alt="Screenshot 2026-02-09 124148" src="https://github.com/user-attachments/assets/72285714-4267-4ec4-9bfa-b796a2967b81" />
+
 An interactive Power BI dashboard was built to communicate insights to stakeholders. Key highlights include:
 
 * KPIs showing total customers, average purchase amount, and average review rating
